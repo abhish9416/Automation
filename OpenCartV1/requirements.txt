@@ -1,0 +1,11 @@
+pytest
+selenium
+webdriver-manager
+pytest-html
+pytest-xdist
+openpyxl
+allure-pytest
+Faker
+pytest-log
+requests
+jsonpath

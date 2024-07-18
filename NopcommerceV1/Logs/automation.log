@@ -1,0 +1,9 @@
+
+2024-07-13 22:50:13,599: INFO: Test_Registration: Launching the Browser
+2024-07-13 22:50:16,792: INFO: Test_Registration: Clicking on Registration CTA {self.hp.clickRegister()}
+2024-07-13 22:50:42,410: INFO: Test_Registration: Launching the Browser
+2024-07-13 22:51:05,469: INFO: Test_Registration: Clicking on Registration CTA {self.hp.clickRegister()}
+2024-07-13 22:51:21,236: INFO: Test_Registration: Launching the Browser
+2024-07-13 22:51:22,351: INFO: Test_Registration: Clicking on Registration CTA {self.hp.clickRegister()}
+2024-07-13 22:51:52,521: INFO: Test_Registration: Launching the Browser
+2024-07-13 22:51:53,168: INFO: Test_Registration: Clicking on Registration CTA {self.hp.clickRegister()}
